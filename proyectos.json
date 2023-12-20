@@ -1,0 +1,73 @@
+[{
+    "id": 1,
+    "titulo": "SEM",
+    "srcimg": "https://webyimengzhang.github.io/geniomarketing/imatge/SEM_codedonostia.jpg",
+    "alt": "Texto alternativo de la imágen",
+    "texto": "Màrqueting a cercadors és igual a Google Ads. Desenvolupa les campanyes amb un equip de data analysts.",
+    "url": "https://webyimengzhang.github.io/geniomarketing/#SEM"
+},
+{
+    "id": 2,
+    "titulo": "Marketing",
+    "srcimg": "https://cdn.builtin.com/sites/www.builtin.com/files/styles/ckeditor_optimize/public/inline-images/marketing-pillar-page-marketing-overview_0.png",
+    "alt": "Descripción de la imágen",
+    "texto": "Aquí has de poner un texto descriptivo del proyecto.Aquí has de poner un texto descriptivo del proyecto. Aquí has de poner un texto descriptivo del proyecto",
+    "url": "#"
+},
+{
+    "id": 3,
+    "titulo": "Branded Content",
+    "srcimg": "https://adspromarketing.com/wp-content/uploads/Branded-content-e1562943111143.jpg",
+    "alt": "Descripción de la imágen",
+    "texto": "El branded content o màrqueting de continguts persuadeix els usuaris a realitzar l'acció que busquem amb contingut de valor.",
+    "url": "#"
+},
+{
+    "id": 4,
+    "titulo": "Social Ads",
+    "srcimg": "https://www.soyunamarca.com/wp-content/uploads/2019/09/social-ads-malaga.png",
+    "alt": "Descripción de la imágen",
+    "texto": "Les campanyes de publicitat a xarxes socials ofereixen un gran èxit gràcies a la varietat de segmentacions i audiències.",
+    "url": "#"
+},
+{
+    "id": 5,
+    "titulo": "Email Marketing",
+    "srcimg": "https://www.quois.com/wp-content/uploads/2023/01/email-marketing.png",
+    "alt": "Descripción de la imágen",
+    "texto": "L'email màrqueting és una de les accions amb més recorregut del màrqueting i la que millors resultats ofereix a ROI.",
+    "url": "#"
+},
+{
+    "id": 6,
+    "titulo": "Publicitat Nativa",
+    "srcimg": "https://www.certerus.com/wpc/wp-content/uploads/2019/09/publicidad_nativa_01.png",
+    "alt": "Descripción de la imágen",
+    "texto": "La publicitat nativa s'adapta al vostre entorn digital i atrau els usuaris amb contingut informatiu i d'interès.",
+    "url": "#"
+},
+{
+    "id": 7,
+    "titulo": "Inbound Marketing",
+    "srcimg": "https://webyimengzhang.github.io/geniomarketing/imatge/inbound-marketing.webp",
+    "alt": "Descripción de la imágen",
+    "texto": "La metodologia basada en la creació de continguts de valor, per atraure visitants i convertir-los en clients.",
+    "url": "https://webyimengzhang.github.io/geniomarketing/#inbound-marketing"
+},{
+    "id": 8,
+    "titulo": "Data Science",
+    "srcimg": "https://s.tmimgcdn.com/scr/800x500/264400/icono-de-concepto-de-gradiente-azul-de-ciencia-de-datos_264435-original.jpg",
+    "alt": "Descripción de la imágen",
+    "texto": "El data science involucra el mètode científic, processos i sistemes per extreure'n coneixement de les dades.",
+    "url": "#"
+},
+{
+    "id": 9,
+    "titulo": "Video Marketing",
+    "srcimg": "https://webyimengzhang.github.io/geniomarketing/imatge/videomarketing.jpg",
+    "alt": "Descripción de la imágen",
+    "texto": "Amb el vídeo màrqueting augmentaràs el coneixement de marca i l'engagement amb els usuaris.",
+    "url": "https://webyimengzhang.github.io/geniomarketing/#videoMarketing"
+}
+
+]
